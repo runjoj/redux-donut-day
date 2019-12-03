@@ -1,0 +1,9 @@
+---
+title: "React Redux Donut Day"
+type: "exercise"  
+description: "Building an app to track all donuts to order!"
+tags: "react"
+behaviors:
+  - react_on_node
+ignore:
+- "react-redux-donut-day.md"
